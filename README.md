@@ -1,6 +1,8 @@
 # WellNet
 
 Endpoints: 
+![FirebaseConfigured](https://user-images.githubusercontent.com/99214724/164286824-ed3129a2-8532-4db5-bd6b-c5a73cb5295f.jpg)
+![GoogleAnalytics1](https://user-images.githubusercontent.com/99214724/164286827-8a7d8053-3628-4301-91e2-e18ae7ff4607.jpg)
 
 - '/covid-verification' 
   - This endpoint displays a covid screening form for employees to take 
