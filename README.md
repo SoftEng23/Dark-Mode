@@ -3,6 +3,10 @@
 Endpoints: 
 ![FirebaseConfigured](https://user-images.githubusercontent.com/99214724/164286824-ed3129a2-8532-4db5-bd6b-c5a73cb5295f.jpg)
 ![GoogleAnalytics1](https://user-images.githubusercontent.com/99214724/164286827-8a7d8053-3628-4301-91e2-e18ae7ff4607.jpg)
+![darkMode01](https://user-images.githubusercontent.com/99214724/164310563-f2a35e9e-c5d6-4a4d-9061-8035dded4833.jpg)
+![darkMode02](https://user-images.githubusercontent.com/99214724/164310578-7e4ce8a4-5929-4786-a530-21af2aeb2251.jpg)
+![darkMode03](https://user-images.githubusercontent.com/99214724/164310643-0958103c-232f-468a-b370-5223416d1dd8.jpg)
+
 
 - '/covid-verification' 
   - This endpoint displays a covid screening form for employees to take 
