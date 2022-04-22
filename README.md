@@ -1,4 +1,5 @@
 # WellNet
+This Firebase configuration only works with the original monolithic backend. 
 
 Endpoints: 
 ![FirebaseConfigured](https://user-images.githubusercontent.com/99214724/164286824-ed3129a2-8532-4db5-bd6b-c5a73cb5295f.jpg)
